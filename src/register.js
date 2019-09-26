@@ -124,34 +124,7 @@ class Register extends React.Component{
             </div>
            </div>
 
-           {/* <div className="col-md-6 mb-10">
-            <div className="form-group">
-            <lable>Want Property</lable>    
-            <input type="radio" id="lang" name="propertytype" value="Want Property" checked={this.state.propertytype === "Want Property"}  onChange={this.handleChange} />
-            <lable>Rent Property</lable>
-            <input type="radio" id="lang" name="propertytype" value="Rent Property" checked={this.state.propertytype === "Rent Property"}  onChange={this.handleChange} />
-           </div>
-           </div>
-           <div className="col-md-6 mb-10">
-            <div className="form-group">
-            <lable>Entrepreneur</lable>    
-            <input type="radio" id="lang" name="propertyvalue" value="Entrepreneur" checked={this.state.propertyvalue === "Entrepreneur"}  onChange={this.handleChange} />
-            <lable>Business Man</lable>
-            <input type="radio" id="lang" name="propertyvalue" value="Business Man" checked={this.state.propertyvalue === "Business Man"}  onChange={this.handleChange} />
-            <lable>Company</lable>
-            <input type="radio" id="lang" name="propertyvalue" value="Company" checked={this.state.propertyvalue === "Company"}  onChange={this.handleChange} />
-           </div>
-           </div>
-           <div className="col-md-6 mb-10">
-            <div className="form-group">
-            <lable>Owner</lable>    
-            <input type="radio" id="lang" name="propertyvalue" value="Owner" checked={this.state.propertyvalue === "Owner"}  onChange={this.handleChange} />
-            <lable>Broker</lable>
-            <input type="radio" id="lang" name="propertyvalue" value="Broker" checked={this.state.propertyvalue === "Broker"}  onChange={this.handleChange} />
-            <lable>Entrepreneur</lable>
-            <input type="radio" id="lang" name="propertyvalue" value="Entrepreneur" checked={this.state.propertyvalue === "Entrepreneur"}  onChange={this.handleChange} />
-           </div>
-           </div> */}
+           
 
                                      
 <div className="col-md-12">
