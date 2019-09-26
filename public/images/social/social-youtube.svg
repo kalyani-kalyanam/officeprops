@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>social-youtube</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HP-April20-v1-FINAL" transform="translate(-808.000000, -6234.000000)">
+            <g id="Group-4" transform="translate(-289.000000, 5477.000000)">
+                <g id="social-youtube" transform="translate(1097.533333, 758.000000)">
+                    <g id="youtube-with-circle-copy-3" transform="translate(14.933333, 16.800000)" fill="#FFFFFF">
+                        <path d="M18.4884,10.7324 L12.1996,7.798 C11.6508,7.5432 11.2,7.8288 11.2,8.4364 L11.2,13.9636 C11.2,14.5712 11.6508,14.8568 12.1996,14.602 L18.4856,11.6676 C19.0372,11.41 19.0372,10.99 18.4884,10.7324 L18.4884,10.7324 Z M14,22.12 C0.2408,22.12 0,20.8796 0,11.2 C0,1.5204 0.2408,0.28 14,0.28 C27.7592,0.28 28,1.5204 28,11.2 C28,20.8796 27.7592,22.12 14,22.12 L14,22.12 Z" id="Shape"></path>
+                    </g>
+                    <circle id="Oval-2" stroke="#FFFFFF" cx="28.9333333" cy="28" r="28"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

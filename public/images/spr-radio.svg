@@ -1,0 +1,17 @@
+﻿<svg 
+   xmlns="http://www.w3.org/2000/svg" width="80" height="18" viewBox="0 0 80 18">
+   <g transform="translate(0 0)">
+      <circle cx="9" cy="9" r="8" stroke="#00C2C4" stroke-width="2" fill="#FFF"/>
+      <circle cx="9" cy="9" r="4" fill="#00C2C4"/>
+   </g>
+   <g transform="translate(20 0)">
+      <circle cx="9" cy="9" r="8" stroke="#01a2b1" stroke-width="2" fill="#FFF"/>
+      <circle cx="9" cy="9" r="4" fill="#01a2b1"/>
+   </g>
+   <g transform="translate(40 0)">
+      <circle cx="9" cy="9" r="8.5" stroke="#CCC" stroke-width="1" fill="#FFF"/>
+   </g>
+   <g transform="translate(60 0)">
+      <circle cx="9" cy="9" r="8.5" stroke="#9b9b9b" stroke-width="1" fill="#FFF"/>
+   </g>
+</svg>

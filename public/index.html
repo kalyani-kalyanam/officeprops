@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="images/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+
+    <link rel="icon" href="images/favicon.png">
+
+<link rel="stylesheet" type="text/css" href="home-assets/css/jquery-ui.css"/>
+<link rel="stylesheet" type="text/css" href="home-assets/css/main.css"/>  
+<link rel="stylesheet" type="text/css" href="home-assets/ajax/libs/Swiper/4.5.0/css/swiper.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="home-assets/css/layout.css"/>
+
+
+
+
+<link rel="stylesheet" href="css/main.css">
+
+<link rel="stylesheet" href="assets/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/owlcarousel/assets/owl.theme.default.min.css">
+
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+
+		
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css">
+
+
+    
+<title>OfficePros: rent flexible office from coworking, business centers, sublets &amp; owner spec suites</title>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+    <script src="js/popper.min.js"></script>
+
+    <script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="assets/owlcarousel/owl.carousel.js"></script>
+<script src="js/default-assets/active.js"></script>
+
+
+
+<script type="text/javascript" src="home-assets/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<script type="text/javascript" src="home-assets/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>   
+ <script type="text/javascript" src="home-assets/ajax/libs/jquery-validate/1.16.0/jquery.validate.min.js"></script>
+<script type="text/javascript" src="home-assets/ajax/libs/jquery-validation-unobtrusive/3.2.6/jquery.validate.unobtrusive.min.js"></script>
+<script type="text/javascript" src="home-assets/scripts/commonjs"></script>
+<!-- <script type="text/javascript" src="home-assets/scripts/globalscripts"></script>  -->
+<!-- <script type="text/javascript" src="home-assets/js/l_en2.js"></script> -->
+<!-- <script type="text/javascript" src="home-assets/scripts/webanalytics"></script> -->
+
+
+
+
+
+ <script>
+            $(document).ready(function() {
+              var owl = $('.owl-carousel');
+              owl.owlCarousel({
+                items:1,
+                loop: true,
+                margin:0,
+                autoplay: true,
+                autoplayTimeout: 3000,
+                autoplayHoverPause: true
+              });
+              
+            })
+          </script>
+          <!-- <script src="https://unpkg.com/react-router-dom/umd/react-router-dom.min.js"></script> -->
+          <script>
+	
+            $(document).ready(function() {
+              $("input[name$='property']").click(function() {
+                  var test = $(this).val();
+                  $(".register-radio").hide();
+                  $("#userregister" + test).show();
+              });
+          });
+          
+          </script>
+
+
+
+<script type="text/javascript">
+  $(function () {
+     $('.primary-header-message-close').click(function () {
+        $('.primary-header-message').remove();
+     });
+  });
+</script>
+
+<!-- <script type="text/javascript" src="home-assets/js/l_en.js"></script> -->
+
+
+<script type="text/javascript">
+
+//   $(function () {
+//      homeViewModel = new Home.IndexViewModelv15({});
+//      ko.applyBindings(homeViewModel, document.getElementById('homePageWrapper'));
+
+
+//      $('#searchbarInput').searchAutocomplete({
+//         memberId: User.id,
+//         appendElement: '#searchbarAutocomplete',
+//         button: $('#searchbarButton'),
+//         submitOnSelect: true,
+//         onSubmit: function (request) {
+//            request.ReservationMethod = 2;
+//            request.ReservationMethodFallback = Enum.WorkspaceReservationMethod.SpecificTimePeriod;
+//            LSHelper.HelperLib.submitObjectAsForm(request, {
+//               action: "/search"
+//            });
+//         }
+//      });
+//      $(window).on("resize", function (e) {
+//         var w = e.target.innerWidth;
+//         var whereIsYourSpaceEnterAddress = (w > 1 && w < 699)
+//            ? "Where is your space?"
+//            : "Where is your space? (Enter address)";
+
+//         var input = $(".sys-address");
+//         var parent = input.parent();
+//         if (parent.is('.fl.fl-i')) {
+//            parent.find('label').text(whereIsYourSpaceEnterAddress);
+//         } else {
+//            input.attr("placeholder", whereIsYourSpaceEnterAddress);
+//         }
+//      }).resize();
+
+//      FloatlabelInit();
+//   });
+// </script>
+
+
+<script src="assets/owlcarousel/owl.carousel.js"></script>
+
+ <script>
+            $(document).ready(function() {
+              var owl = $('.owl-carousel');
+              owl.owlCarousel({
+                items:1,
+                loop: true,
+                margin:0,
+                autoplay: true,
+                autoplayTimeout: 3000,
+                autoplayHoverPause: true
+              });
+              
+            })
+          </script>
+
+  </body>
+</html>

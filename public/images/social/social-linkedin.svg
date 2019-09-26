@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>social-linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.325963077 0.388362393 18.3787692 0.388362393 18.3787692 19.7828695 0.325963077 19.7828695"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HP-April20-v1-FINAL" transform="translate(-561.000000, -6234.000000)">
+            <g id="Group-4" transform="translate(-289.000000, 5477.000000)">
+                <g id="social-linkedin" transform="translate(851.000000, 758.000000)">
+                    <g id="ic-LinkedIn" transform="translate(0.133333, 0.000000)">
+                        <g>
+                            <g id="Group-4" stroke="#FFFFFF">
+                                <circle id="Oval-2" cx="28" cy="28" r="28"></circle>
+                            </g>
+                            <g id="Page-1" transform="translate(14.933333, 13.066667)">
+                                <polygon id="Fill-1" fill="#FFFFFF" points="0 27.2820513 5.74358974 27.2820513 5.74358974 8.61538462 0 8.61538462"></polygon>
+                                <g id="Group-7">
+                                    <path d="M0,3.04073618 C0,1.37653105 1.23329231,0.0973059829 3.12393846,0.0973059829 C5.01458462,0.0973059829 6.17249231,1.37653105 6.20867692,3.04073618 C6.20867692,4.67159658 5.01458462,5.99022906 3.04855385,5.99022906 C1.19710769,5.99022906 0,4.67159658 0,3.04073618 Z" id="Fill-2" fill="#FFFFFF"></path>
+                                    <g id="Group-6" transform="translate(9.046154, 7.498575)">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <g id="Clip-5"></g>
+                                        <path d="M11.63064,0.388362393 C15.4873169,0.388362393 18.3790708,2.98621994 18.3790708,8.56994644 L18.3790708,19.7828695 L12.5171631,19.7828695 L12.5171631,9.27321709 C12.5171631,6.8269265 11.6668246,5.16575271 9.54700923,5.16575271 C7.92774769,5.16575271 6.96584,6.29037949 6.54067077,7.37256752 C6.38387077,7.75754758 6.34467077,8.3031886 6.34467077,8.84579829 L6.34467077,19.7798382 L0.479747692,19.7798382 L0.479747692,6.8663339 C0.479747692,4.49885812 0.404363077,2.51939373 0.325963077,0.815781197 L5.41894769,0.815781197 L5.68731692,3.45001481 L5.80491692,3.45001481 C6.57685538,2.21322849 8.46750154,0.388362393 11.63064,0.388362393 Z" id="Fill-4" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
